@@ -14,3 +14,7 @@
   $ cd Pizzahut
 
   $ python2 Spam.py
+
+
+
+#SUBREK CANNEL GW AVATAR ID
