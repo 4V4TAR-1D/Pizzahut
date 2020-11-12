@@ -1,2 +1,2 @@
 # Pizzahut
-Tools ini untuk Spam otp pizzahut unliited
+Tools ini untuk Spam otp pizzahut unlimited
