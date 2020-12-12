@@ -16,5 +16,7 @@
   $ python2 update.py
 
 
+CONTOH NOMOR TARGET 80292929
+
 
 # SUBREK CANNEL GW AVATAR ID
