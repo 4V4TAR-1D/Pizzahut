@@ -13,7 +13,7 @@
 
   $ cd Pizzahut
 
-  $ python2 Spam.py
+  $ python2 update.py
 
 
 
